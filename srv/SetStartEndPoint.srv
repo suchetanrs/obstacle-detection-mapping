@@ -1,0 +1,6 @@
+int64 start_point_x
+int64 start_point_y
+int64 end_point_x
+int64 end_point_y
+---
+int64 result
