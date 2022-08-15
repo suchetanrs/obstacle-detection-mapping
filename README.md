@@ -1,7 +1,7 @@
 # obstacle-detection-mapping
 
 # Video Demonstration
-![](https://github.com/suchetanrs/obstacle-detection-mapping/blob/main/README-files/animation.gif)<br/>
+![](https://github.com/suchetanrs/obstacle-detection-mapping/blob/master/README-files/animation.gif)<br/>
 This is a video demonstration of mapping of the turtlebot's environment.
 
 # Explanation
